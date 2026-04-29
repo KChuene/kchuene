@@ -10,7 +10,7 @@
 └──✦ Exploit Developer                    
 ```
 
-# 👋 Hi there, I’m K. Chuene
+# 👋 Hello friend, I’m K. Chuene
 - 🎓 Graduate in Computer Science & Informatics | Honours student in Cybersecurity  
 - 💻 Software Developer | 🔐 Offensive Security enthusiast  
 - 🛠️ I build apps and break things — ethically — through VulnHub CTFs and custom exploit development  
