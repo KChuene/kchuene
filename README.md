@@ -10,16 +10,16 @@
 └──✦ Exploit Developer                    
 ```
 
-# 👋 Hello friend, I’m K. Chuene
-- 🎓 Graduate in Computer Science & Informatics | Honours student in Cybersecurity  
-- 💻 Software Developer | 🔐 Offensive Security enthusiast  
-- 🛠️ I build apps and break things — ethically — through VulnHub CTFs and custom exploit development  
-- 🧩 Here's a [taste](https://github.com/KChuene/cs-chat)
+# Hello friend, I’m K. Chuene
+- Graduate in Computer Science & Informatics | Honours student in Cybersecurity  
+- Software Developer | Offensive Security enthusiast  
+- I build apps and break things — ethically — through VulnHub CTFs and custom exploit development  
+- Here's a [taste](https://github.com/KChuene/cs-chat)
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-| 💻 Languages | 🧩 Frameworks & Libraries | 🛠️ Dev Tools | 🐧 OS & Environment | 🔐 Security |
+| Languages | Frameworks & Libraries | Dev Tools | OS & Environment | Security |
 |:---:|:---:|:---:|:---:|:---:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&logoColor=white) |
@@ -28,14 +28,14 @@
 
 ---
 
-## ⚖️ My Exposure
+## My Exposure
 
-### 🖥️ Software Development
+### Software Development
 - Build REST APIs with **Flask** and test them via **Postman**
 - Write clean, maintainable code in Python, Java, and C++
 - Comfortable with **.NET**, **SQL**, and version control via **Git**
 
-### 🔓 Offensive Security
+### Offensive Security
 - Solve retired **VulnHub** CTF machines, and compile [writeups](https://kchuene.gitbook.io/offsec-docs/)
 - Develop custom exploits to CTFs
 - Constantly learning Web Security
